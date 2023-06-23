@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NameList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="JP Leisure Namelist (DLC Parklife)">
+	<strings>
+		<!-- Amusement Park Pattern -->
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">北海道グリーンランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ルスツリゾート</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">きたみファミリーランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ファミリー愛ランドYOU</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">祝津マリンランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">函館公園こどものくに</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ファンタジードームはちのへ</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">岩山パークランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">大森山ゆうえんちアニパ</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">チャチャワールドいしこし</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">八木山ベニーランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">リナワールド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">郡山カルチャーパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">国営ひたち海浜公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">かみね公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">那須ハイランドパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">那須りんどう湖 LAKE VIEW</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">とちのきファミリーランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">華蔵寺公園遊園地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">るなぱあく</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">渋川スカイランドパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">軽井沢おもちゃ王国</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">桐生が岡遊園地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">木更津かんらんしゃパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">東京ディズニーシー</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">東京ディズニーランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">東京ドイツ村</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">マザー牧場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ロマンの森共和国</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">千葉こどもの国キッズダム</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">蓮沼海浜公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">もりのゆうえんち</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ふなばしアンデルセン公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ターザニア</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">大慶園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">西武園ゆうえんち</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">東武動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">むさしの村</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">浅草花やしき</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">東京ジョイポリス</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">あらかわ遊園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">東京ドームシティ</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">アクアパーク品川</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">東京サマーランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">よみうりランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ナムコ・ナンジャタウン</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">サンリオピューロランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">よこはまコスモワールド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">さがみ湖リゾート</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">八景島シーパラダイス</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">サントピアワールド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">妙高サンシャインランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">富山市ファミリーパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ミラージュランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">手取フィッシュランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">芝政ワールド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">富士急ハイランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">池の平ファミリーランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">伊豆アニマルキングダム</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ぐりんぱ</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">浜名湖パルパル</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">刈谷市交通児童遊園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">碧南市明石公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">豊橋総合動植物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">東山公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">名古屋港シートレインランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">レゴランド・ジャパン</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">日本モンキーパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">南知多ビーチランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ラグーナテンボス・ラグナシア</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">養老ランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">恵那峡ワンダーランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ナガシマスパーランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">パルケエスパーニャ</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">天橋立ビューランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ひらかたパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">関西サイクルスポーツセンター</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ユニバーサル・スタジオ・ジャパン</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">生駒山上遊園地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ポルトヨーロッパ</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">アドベンチャーワールド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ハーバーランド・モザイクガーデン</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">須磨浦山上遊園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">神戸フルーツ・フラワーパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">東条湖おもちゃ王国</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">姫路セントラルパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">赤穂海浜公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">鷲羽山ハイランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">おもちゃ王国</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ヒルゼン高原センター</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">みろくの里</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ときわ遊園地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">秋吉台サファリランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">はい！からっと横丁</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ニューレオマワールド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">とくしまファミリーランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">えひめこどもの城</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">海の中道海浜公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">だざいふ遊園地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">神野公園こども遊園地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">メルヘン村</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ハウステンボス</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">熊本市動植物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">グリーンランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">城島高原パーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ラクテンチ</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ハーモニーランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">青島リゾートこどものくに</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">ダグリ岬遊園地</LocalizedString>
+		<!-- Nature Reserve Pattern -->
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">利尻礼文サロベツ国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">知床国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">阿寒国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">釧路湿原国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">大雪山国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">支笏洞爺</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">支笏洞爺国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">十和田八幡平国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">三陸復興国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">磐梯朝日国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">日光国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">上信越高原国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">秩父多摩甲斐国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">尾瀬国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">富士箱根伊豆国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">小笠原国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">中部山岳国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">南アルプス国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">妙高戸隠連山国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">白山国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">伊勢志摩国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">吉野熊野国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">山陰海岸国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">大山隠岐国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">瀬戸内海国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">足摺宇和海国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">西海国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">雲仙天草国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">阿蘇くじゅう国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">霧島錦江湾国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">屋久島国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">西表石垣国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">慶良間諸島国立公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">暑寒別天売焼尻国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">網走国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">ニセコ積丹小樽海岸国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">日高山脈襟裳国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">大沼国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">下北半島国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">津軽国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">早池峰国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">栗駒国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">蔵王国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">男鹿国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">鳥海国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">越後三山只見国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">水郷筑波国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">妙義荒船佐久高原国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">南房総国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">明治の森高尾国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">丹沢大山国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">佐渡弥彦米山国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">能登半島国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">越前加賀海岸国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">若狭湾国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">八ヶ岳中信高原国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">天竜奥三河国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">揖斐関ヶ原養老国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">飛騨木曽川国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">愛知高原国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">三河湾国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">鈴鹿国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">室生赤目青山国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">琵琶湖国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">丹後天橋立大江山国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">京都丹波高原国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">明治の森箕面国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">金剛生駒紀泉国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">氷ノ山後山那岐山国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">大和青垣国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">高野竜神国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">比婆道後帝釈国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">西中国山地国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">北長門海岸国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">秋吉台国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">剣山国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">室戸阿南海岸国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">石鎚国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">北九州国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">玄海国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">耶馬日田英彦山国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">壱岐対馬国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">九州中央山地国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">日豊海岸国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">祖母傾国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">日南海岸国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">甑島国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">沖縄海岸国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">沖縄戦跡国定公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">滝野すずらん丘陵公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">みちのく杜の湖畔公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">ひたち海浜公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">武蔵丘陵森林公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">昭和記念公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">東京臨海広域防災公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">越後丘陵公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">アルプスあづみの公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">木曽三川公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">淀川河川公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">明石海峡公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">平城宮跡歴史公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">飛鳥歴史公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">備北丘陵公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">讃岐まんのう公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">海の中道海浜公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">吉野ヶ里歴史公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">沖縄記念公園</LocalizedString>
+		<!-- Zoo Park Pattern -->
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">札幌円山動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">旭川旭山動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">釧路動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">おびひろ動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">弥生いこいの広場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">盛岡市動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">岩手サファリパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">大森山動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">八木山動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">宇都宮動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">那須どうぶつ王国</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">那須サファリパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">群馬サファリパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">桐生が岡動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">日立かみね動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">大宮公園小動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">埼玉こども動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">東武動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">さいたま大崎公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">狭山智光山動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">上野動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">多摩動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">井の頭自然文化園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">大島公園動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">羽村動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">江戸川自然動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">足立生物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">千葉動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">市川動植物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">マザー牧場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">市原ぞうの国</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">夢見ヶ崎動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">小田原動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">野毛山動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">横浜金沢動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">よこはま動物園ズーラシア</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">日本平動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">浜松市動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">伊豆アニマルキングダム</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">伊豆シャボテン公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">富士サファリパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">熱川バナナワニ園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">豊橋総合動植物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">東山動植物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">豊田鞍ケ池公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">岡崎東公園動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">大町山岳博物館</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">楽寿園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">日本モンキーセンター</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">富山市ファミリーパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">高岡古城公園動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">須坂動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">長野茶臼山動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">小諸動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">飯田動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">甲府遊亀公園付属動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">いしかわ動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">鯖江市西山動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">京都動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">天王寺動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">池田五月山動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">神戸王子動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">姫路動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">姫路セントラルパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">神戸どうぶつ王国</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">淡路ファームパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">和歌山城公園動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">アドベンチャーワールド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">池田動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">福山動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">広島安佐動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">周南徳山動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">秋吉台サファリランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">常盤遊園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">愛媛とべ動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">とくしま動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">高知のいち動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">わんぱーくこうちアニマルランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">福岡動植物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">大牟田動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">到津の森公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">久留米鳥類センター</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">海の中道海浜公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">九十九島動植物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">九州自然動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">長崎バイオパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">熊本動植物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">フェニックス自然動物園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">鹿児島平川動物公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">沖縄こどもの国</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">鴨川シーワールド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">横浜・八景島シーパラダイス</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">伊豆・三津シーパラダイス</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">海遊館</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">城崎マリンワールド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">足摺海洋館</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">登別マリンパークニクス</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">アクアマリンふくしま</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">栃木なかがわ水遊園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">アクアパーク品川</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">葛西臨海水族園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">マリンピア日本海</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">寺泊水族博物館</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">海洋科学博物館</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">南知多ビーチランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">琵琶湖博物館</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">丹後魚っ知館</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">串本海中公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">しまね海洋館アクアス</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Zoo">マリンワールド海の中道</LocalizedString>
+		<!-- Generic Park Pattern -->
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">パーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} ミニ公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">ミニパーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 遊び場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} ふるさと公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 自然公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 運動公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 総合公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 水郷公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 水上公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} ビオトープ</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 緑地公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 広場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 中央公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">グリーンパーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} スポーツ公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 緑地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} グランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 総合グランド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">スポーツプラザ {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} プラザ</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} スポーツセンター</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} せせらぎ公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} の丘公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} ふれあい公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 遊水池</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 多目的公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 多目的運動場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 運動場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 空港公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} の森公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} の里公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 園地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} ビーチ公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">ビーチパーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} リゾート公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">リゾートパーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 緑化公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 緑化センター</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">グリーンセンター {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} こども公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 子ども公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 文化公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">カルチャーパーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 城址公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 史跡公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} の山公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} コミュニティ公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 親水公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} レクリエーション公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 河川公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">ファミリーパーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} ファミリー公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} フラワー公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">フラワーパーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 海浜公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} の浜公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 丘陵公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 子どもの森</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} シーサイド公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">シーサイドパーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 記念公園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} バーベキュー広場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} 庭園</LocalizedString>
+	</strings>
+</NameList>

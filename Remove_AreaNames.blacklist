@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<BlackList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Remove_Park_Area">
+	<strings>
+		<!-- Remove Park Area Pattern -->
+		<LocalizedStringKey identifier="AREA_PATTERN" key="AmusementPark" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="NatureReserve" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Zoo" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Generic" />
+	</strings>
+</BlackList>
